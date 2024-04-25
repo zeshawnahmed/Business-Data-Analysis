@@ -54,3 +54,14 @@ I explored Python and Pycharm by analyzing worldwide sugarcane production data. 
 
 **Skills:**  
 Excel, Pivot Tables, Formulas, Python, Pycharm
+
+# Below are some data visualizations I've made. I enjoy bringing data to life and making it visually appealing. 
+
+![image](https://github.com/zeshawnahmed/IT-Business-Analyst-Work/assets/3903498/f52ba261-a191-40fc-80b0-36aa92d73bbb)
+Operation Costs By Department for Nationally-Recognized Construction Company. Fiscal Year 2018. Generated w/Excel.
+
+![image](https://github.com/zeshawnahmed/IT-Business-Analyst-Work/assets/3903498/12f1ec60-a483-41ea-b79c-f179d7193b10) <br>
+Server CPU Load Report for SysAdmin Team, weekly comparison, American General Tool Group. Generated w/Excel. 
+
+![image](https://github.com/zeshawnahmed/IT-Business-Analyst-Work/assets/3903498/a62832fe-2235-4a6b-8d65-a072e084097b) <br>
+Population overlayed by life expentancy. Per Country and Continent 2018. Used Tableau. 
