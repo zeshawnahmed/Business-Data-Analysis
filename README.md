@@ -7,11 +7,11 @@
 The goal of this project is to use Excel functionality to analyze data about Adidas's product sales in the United States, which contain information in 9652 rows and 14 columns for the fiscal years 2020 and 2021. Visualize data, prepare different types of reports and interactive dashboard.
 
 **Reports and conclusions:**  
-- [adidas-sales-data-analysis.xlsx]
-- [adidas-sales-dashboard.xlsx]
-
+- [adidas-sales-data-analysis.xlsx](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/Adidas%20US%20Sales%20Analysis/Adidas%20Sales%20Analysis%20with%20reports.xlsx)
+- [adidas-sales-dashboard.xlsx](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/Adidas%20US%20Sales%20Analysis/Dashboard.xlsx)
+  
 **Original dataset:**  
-[adidas-us-sales.xlsx]
+[adidas-us-sales.xlsx](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/Adidas%20US%20Sales%20Analysis/Original-dataset.xlsx)
 
 **Skills:**  
 Analytical thinking, data cleaning, data analysis, data visualization.
