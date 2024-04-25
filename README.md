@@ -28,7 +28,7 @@ An analysis of financial data on the sale of Adidas products in the USA for 2020
 **Description:**  
 This Excel dashboard presents a comprehensive overview of sales performance metrics, providing insights into key aspects of the sales process. It offers a visually appealing and interactive interface to analyze sales data effectively.
 
-See (Excel - Sales Performance Dashboard.xlsx)
+[See Dashboard Here](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/Excel%20-%20Sales%20Performance%20Dashboard.xlsx)
 
 **Components:**  
 - **Sales Overview:** Summary of total sales, top-performing products, regions, or sales representatives.
@@ -48,9 +48,9 @@ The sales performance dashboard provides actionable insights into sales trends, 
 # Python Project - Analyzing Worldwide Sugarcane Production Data
 
 **Description:**  
-I explored Python and Pycharm by analyzing worldwide sugarcane production data. Link to raw data set: https://www.statista.com/statistics/249679/total-production-of-sugar-worldwide/
+I explored Python and Pycharm by analyzing worldwide sugarcane production data. Determined average sugarcane production yield using Python. [Link to raw data set](https://www.statista.com/statistics/249679/total-production-of-sugar-worldwide/)
 
-See (Python.png)
+[See my screenshot in Pycharm](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/python.png). 
 
 **Skills:**  
 Excel, Pivot Tables, Formulas, Python, Pycharm
