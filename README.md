@@ -28,6 +28,8 @@ An analysis of financial data on the sale of Adidas products in the USA for 2020
 **Description:**  
 This Excel dashboard presents a comprehensive overview of sales performance metrics, providing insights into key aspects of the sales process. It offers a visually appealing and interactive interface to analyze sales data effectively.
 
+[Link to Dashboard] (Excel - Sales Performance Dashboard.xlsx)
+
 **Components:**  
 - **Sales Overview:** Summary of total sales, top-performing products, regions, or sales representatives.
 - **Sales Trends:** Visual representation of sales trends over time, highlighting peaks and troughs.
