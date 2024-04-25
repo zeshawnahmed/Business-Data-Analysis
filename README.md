@@ -38,11 +38,9 @@ This Excel dashboard presents a comprehensive overview of sales performance metr
 - **Interactive Features:** Filters, slicers, or dropdown menus for users to customize data views based on specific criteria.
 
 **Skills:**  
-Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slicers, Interactive Features.
-
-# Last but not least, a simple analysis I did using Python to analyze worldwide sugercane production data. 
+Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slicers, Interactive Features. 
 
 **Results:**  
 The sales performance dashboard provides actionable insights into sales trends, product performance, regional analysis, and sales representative performance, facilitating informed decision-making and strategic planning.
 
-
+# Last but not least, a simple analysis I did using Python to analyze worldwide sugercane production data.
