@@ -45,4 +45,12 @@ Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slicers, Interacti
 **Results:**  
 The sales performance dashboard provides actionable insights into sales trends, product performance, regional analysis, and sales representative performance, facilitating informed decision-making and strategic planning.
 
-# Last but not least, a simple analysis I did using Python to analyze worldwide sugercane production data.
+# Python Project - Analyzing Worldwide Sugarcane Production Data
+
+**Description:**  
+I explored Python and Pycharm by analyzing worldwide sugarcane production data. 
+
+See (Python.png)
+
+**Skills:**  
+Excel, Pivot Tables, Formulas, Python, Pycharm
