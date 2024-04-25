@@ -1,5 +1,5 @@
 # Welcome to my Business/Data Analysis Portfolio.
-## Here are some of my project I've worked on. 
+## I treat this repository like my portfolio. Here are some of my project I've worked on. 
 
 # Adidas US sales data analysis
 
