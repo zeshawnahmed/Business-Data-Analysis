@@ -22,3 +22,25 @@ Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Char
 **Results:**  
 An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created.
 
+
+# Sales Performance Dashboard
+
+**Description:**  
+This Excel dashboard presents a comprehensive overview of sales performance metrics, providing insights into key aspects of the sales process. It offers a visually appealing and interactive interface to analyze sales data effectively.
+
+**Components:**  
+- **Sales Overview:** Summary of total sales, top-performing products, regions, or sales representatives.
+- **Sales Trends:** Visual representation of sales trends over time, highlighting peaks and troughs.
+- **Product Performance:** Analysis of individual product performance, including sales volume, revenue, and profitability.
+- **Regional Analysis:** Breakdown of sales by region or territory, identifying areas of strength and opportunities for improvement.
+- **Sales Rep Performance:** Evaluation of sales representatives' performance, showcasing top performers and areas needing improvement.
+- **Goal Tracking:** Comparison of actual sales against predefined sales targets or goals.
+- **Interactive Features:** Filters, slicers, or dropdown menus for users to customize data views based on specific criteria.
+
+**Skills:**  
+Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slicers, Interactive Features.
+
+**Results:**  
+The sales performance dashboard provides actionable insights into sales trends, product performance, regional analysis, and sales representative performance, facilitating informed decision-making and strategic planning.
+
+
