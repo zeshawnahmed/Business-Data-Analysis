@@ -1,10 +1,10 @@
 # Welcome to my Business/Data Analysis Portfolio.
 ## I treat this repository like my portfolio. Here are some of my project I've worked on. 
 
-# Adidas US sales data analysis
+# Project #1: Adidas US sales data analysis
 
 **Description:**  
-The goal of this project is to use Excel functionality to analyze data about Adidas's product sales in the United States, which contain information in 9652 rows and 14 columns for the fiscal years 2020 and 2021. Visualize data, prepare different types of reports and interactive dashboard.
+The goal of this project was to use Excel functionality to analyze data about Adidas's product sales in the United States, which contain information in 9652 rows and 14 columns for the fiscal years 2020 and 2021. Visualize data, prepare different types of reports and interactive dashboard.
 
 **Reports and conclusions:**  
 - [adidas-sales-data-analysis.xlsx](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/Adidas%20US%20Sales%20Analysis/Adidas%20Sales%20Analysis%20with%20reports.xlsx)
@@ -23,7 +23,7 @@ Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Char
 An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created.
 
 
-# Sales Performance Dashboard - US based Construction Company 
+# Project #2 :Sales Performance Dashboard - US based Construction Company 
 
 **Description:**  
 This Excel dashboard presents a comprehensive overview of sales performance metrics, for a US-based construction company specializing in plumbing, providing insights into key aspects of the sales process. It offers a visually appealing and interactive interface to analyze sales data effectively.
@@ -45,7 +45,7 @@ Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slicers, Interacti
 **Results:**  
 The sales performance dashboard provides actionable insights into sales trends, product performance, regional analysis, and sales representative performance, facilitating informed decision-making and strategic planning.
 
-# Python Project - Analyzing Worldwide Sugarcane Production Data
+# Project #3 :Python Project - Analyzing Worldwide Sugarcane Production Data
 
 **Description:**  
 I explored Python and Pycharm by analyzing worldwide sugarcane production data. Determined average sugarcane production yield using Python. [Link to raw data set](https://www.statista.com/statistics/249679/total-production-of-sugar-worldwide/)
