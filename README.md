@@ -23,10 +23,10 @@ Excel, Pivot Tables, Formulas, Functions, Charts, Dashboards, Slices, Pivot Char
 An analysis of financial data on the sale of Adidas products in the USA for 2020 and 2021 was performed. Reports and dashboard were created.
 
 
-# Sales Performance Dashboard
+# Sales Performance Dashboard - US based Construction Company 
 
 **Description:**  
-This Excel dashboard presents a comprehensive overview of sales performance metrics, providing insights into key aspects of the sales process. It offers a visually appealing and interactive interface to analyze sales data effectively.
+This Excel dashboard presents a comprehensive overview of sales performance metrics, for a US-based construction company specializing in plumbing, providing insights into key aspects of the sales process. It offers a visually appealing and interactive interface to analyze sales data effectively.
 
 [See Dashboard Here](https://github.com/zeshawnahmed/Business-Data-Analysis/blob/main/Excel%20-%20Sales%20Performance%20Dashboard.xlsx)
 
